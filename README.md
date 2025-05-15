@@ -12,7 +12,7 @@
 🌟 I'm currently working on something cool! Visit my main repository below:
 
 <p align="center">
-  <a href="https://github.com/angvan53/YOUR-MAIN-REPO" target="_blank">
+  <a href="https://github.com/angvan53/aws-capstone" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge&logo=github" alt="View Project Badge"/>
   </a>
 </p>
